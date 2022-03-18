@@ -1,0 +1,20 @@
+.App {
+  /* text-align: center; */
+  background-color: blue;
+}
+.Main {
+  text-align: center;
+}
+.Footer {
+  text-align: center;
+  background-color:blue;
+
+}
+.Todo {
+  text-align: center;
+  background-color: gray;
+  margin-bottom: 4px;
+}
+
+
+
